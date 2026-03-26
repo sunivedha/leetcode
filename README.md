@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sunivedha/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sunivedha/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sunivedha/leetcode/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/sunivedha/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sunivedha/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sunivedha/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sunivedha/leetcode/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/sunivedha/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Hash Table
 |  |
 | ------- |
