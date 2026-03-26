@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunivedha/leetcode/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/sunivedha/leetcode/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunivedha/leetcode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/sunivedha/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
