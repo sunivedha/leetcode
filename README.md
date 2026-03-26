@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunivedha/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sunivedha/leetcode/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/sunivedha/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/sunivedha/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sunivedha/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/sunivedha/leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sunivedha/leetcode/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sunivedha/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
