@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sunivedha/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/sunivedha/leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/sunivedha/leetcode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/sunivedha/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunivedha/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sunivedha/leetcode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sunivedha/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sunivedha/leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
