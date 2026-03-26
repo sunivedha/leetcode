@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sunivedha/leetcode/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/sunivedha/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/sunivedha/leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/sunivedha/leetcode/tree/master/0223-rectangle-area) |
 ## String
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sunivedha/leetcode/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sunivedha/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
