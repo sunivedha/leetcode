@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/sunivedha/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/sunivedha/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sunivedha/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/sunivedha/leetcode/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sunivedha/leetcode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/sunivedha/leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
