@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sunivedha/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sunivedha/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sunivedha/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/sunivedha/leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunivedha/leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sunivedha/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
