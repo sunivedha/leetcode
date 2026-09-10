@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/sunivedha/leetcode/tree/master/0367-valid-perfect-square) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sunivedha/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
